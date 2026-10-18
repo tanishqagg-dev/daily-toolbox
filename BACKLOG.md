@@ -2,7 +2,7 @@
 
 One coherent change per PR. Prefer useful behavior over adding another entry.
 
-- [ ] CSV profiler with missing-value counts and inferred column types
+- [x] CSV profiler with missing-value counts and inferred column types
 - [ ] JSON Lines validator with line-numbered errors
 - [ ] Duplicate-file finder using streaming hashes, with no deletion
 - [ ] Directory size report with symlink-safe traversal
